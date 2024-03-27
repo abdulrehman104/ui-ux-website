@@ -1,6 +1,6 @@
 import Image from "next/image";
-import check from "../assets/check.svg";
-import check1 from "../assets/check1.svg";
+import check from "@/assets/check.svg";
+import check1 from "@/assets/check1.svg";
 
 const Pricing = () => {
   return (

@@ -1,7 +1,7 @@
 import Image from "next/image";
-import Logo from "../assets/Logo.svg";
-import Menu from "../assets/Menu.svg";
-import User from "../assets/User.svg";
+import Logo from "@/assets/Logo.svg";
+import Menu from "@/assets/Menu.svg";
+import User from "@/assets/User.svg";
 import Link from "next/link";
 
 const navLinks = [

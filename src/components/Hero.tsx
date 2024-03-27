@@ -1,12 +1,12 @@
 import Image from "next/image";
-import arrow from "../assets/arrow.svg";
-import gradient from "../assets/Gradient.svg";
-import hero from "../assets/Image.svg";
-import Google from "../assets/Google.svg";
-import Slack from "../assets/Slack.svg";
-import Truspilot from "../assets/Trustpilot.svg";
-import Cnn from "../assets/CNN.svg";
-import Cluth from "../assets/Clutch.svg";
+import arrow from "@/assets/arrow.svg";
+import gradient from "@/assets/Gradient.svg";
+import hero from "@/assets/Image.svg";
+import Google from "@/assets/Google.svg";
+import Slack from "@/assets/Slack.svg";
+import Truspilot from "@/assets/Trustpilot.svg";
+import Cnn from "@/assets/CNN.svg";
+import Cluth from "@/assets/Clutch.svg";
 
 const images = [
   { id: 1, alt: "Google", src: Google },
@@ -29,7 +29,7 @@ const Hero = () => {
 
         {/* In this, we've designed our `<p>` element for both mobile and larger devices. */}
         <p className="text-[#36485C]  pt-[38px] lg:text-[18px] lg:leading-[28px] text-center ">
-          Get a bird's eye view with our customizable dashboard. Stay on top of
+          Get a birds eye view with our customizable dashboard. Stay on top of
           things. Revamp your work process with our game-changing feature. Boost
           productivity and efficiency.
         </p>

@@ -1,6 +1,6 @@
 import Image from "next/image";
 // import pinkButton from "../assets/pink-button.svg";
-import arrow from "../assets/arrow.png";
+import arrow from "@/assets/arrow.png";
 const Cta = () => {
   return (
     <div className="bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 w-full py-[56px] px-[32px] rounded-2xl text-center lg:mt-[120px] lg:py-[88px] lg:px-[324px] ">

@@ -1,9 +1,9 @@
 import Image from "next/image";
-import logo from "../assets/Logo.svg";
-import Arror from "../assets/downArrow.svg";
-import Facebook from "../assets/Facebook.svg";
-import Twitter from "../assets/X.svg";
-import Feed from "../assets/Feed.svg";
+import logo from "@/assets/Logo.svg";
+import Arror from "@/assets/downArrow.svg";
+import Facebook from "@/assets/Facebook.svg";
+import Twitter from "@/assets/X.svg";
+import Feed from "@/assets/Feed.svg";
 const Footer = () => {
   return (
     <div className="pt-[80px] pb-[40px] lg:pt-[120px] lg:pb-[56px] ">

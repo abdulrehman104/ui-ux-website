@@ -1,11 +1,11 @@
 import Image from "next/image";
-import feature1 from "../assets/feature-1.svg";
-import feature2 from "../assets/feature-2.svg";
-import feature3 from "../assets/feature-3.svg";
-import check from "../assets/check.svg";
-import BlueButton from "../assets/blue-button.svg";
-import greenButton from "../assets/green-button.svg";
-import pinkButton from "../assets/pink-button.svg";
+import feature1 from "@/assets/feature-1.svg";
+import feature2 from "@/assets/feature-2.svg";
+import feature3 from "@/assets/feature-3.svg";
+import check from "@/assets/check.svg";
+import BlueButton from "@/assets/blue-button.svg";
+import greenButton from "@/assets/green-button.svg";
+import pinkButton from "@/assets/pink-button.svg";
 
 const Feature = () => {
   return (
@@ -86,7 +86,7 @@ const Feature = () => {
           />
           <p className="text-[#36485C] font-normal pt-[24px] lg:text-[18px] leading-[28px] lg:pt-[16px] ">
             Stay on top of things and revamp your work process with our
-            game changing feature. Get a bird's eye view with our customizable
+            game changing feature. Get a birds eye view with our customizable
             dashboard.
           </p>
           <ul className="flex flex-col gap-[12px] pt-[24px] lg:pt-[32px]">
