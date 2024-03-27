@@ -1,6 +1,6 @@
 import Image from "next/image";
 import arrow from "../assets/arrow.svg";
-import gradient from "../assets/gradient.svg";
+import gradient from "../assets/Gradient.svg";
 import hero from "../assets/Image.svg";
 import Google from "../assets/Google.svg";
 import Slack from "../assets/Slack.svg";
@@ -30,8 +30,8 @@ const Hero = () => {
         {/* In this, we've designed our `<p>` element for both mobile and larger devices. */}
         <p className="text-[#36485C]  pt-[38px] lg:text-[18px] lg:leading-[28px] text-center ">
           Get a bird's eye view with our customizable dashboard. Stay on top of
-          things! Revamp your work process with our game-changing feature. Boost
-          productivity and efficiency!
+          things. Revamp your work process with our game-changing feature. Boost
+          productivity and efficiency.
         </p>
 
         {/* In this `<div>`, every element inside will have a flex direction, with their width set to full in comparison to the parent element's width. Additionally, we've added a padding of 38 pixels from the top in the upper `<div>`, justified the elements to the center, and provided a gap of 10 pixels between them.  */}

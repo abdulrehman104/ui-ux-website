@@ -28,7 +28,7 @@ const Feature = () => {
           />
           <p className="text-[#36485C] font-normal pt-[24px] lg:text-[18px] leading-[28px] lg:pt-[16px] ">
             Stay on top of things and revamp your work process with our
-            game-changing feature. Get a bird's eye view with our customizable
+            game-changing feature. Get a birds eye view with our customizable
             dashboard.
           </p>
           <ul className="flex flex-col gap-[12px] pt-[24px] lg:pt-[32px]">
@@ -86,7 +86,7 @@ const Feature = () => {
           />
           <p className="text-[#36485C] font-normal pt-[24px] lg:text-[18px] leading-[28px] lg:pt-[16px] ">
             Stay on top of things and revamp your work process with our
-            game-changing feature. Get a bird's eye view with our customizable
+            game changing feature. Get a bird's eye view with our customizable
             dashboard.
           </p>
           <ul className="flex flex-col gap-[12px] pt-[24px] lg:pt-[32px]">
@@ -134,7 +134,7 @@ const Feature = () => {
           />
           <p className="text-[#36485C] font-normal pt-[24px] lg:text-[18px] leading-[28px] lg:pt-[16px] ">
             Stay on top of things and revamp your work process with our
-            game-changing feature. Get a bird's eye view with our customizable
+            game changing feature. Get a birds eye view with our customizable
             dashboard.
           </p>
           <div className="flex py-[32px] gap-x-[24px] ">
